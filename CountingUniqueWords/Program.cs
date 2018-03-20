@@ -15,7 +15,7 @@ namespace CountingUniqueWords
         {
             if (args.Length == 0)
             {
-                Console.WriteLine($"No aruments provided.");
+                Console.WriteLine($"No arguments provided.");
                 Console.WriteLine($"Please provide a directory name to scan text files as argument.");
                 Console.ReadLine();
                 return;
